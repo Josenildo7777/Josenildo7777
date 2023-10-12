@@ -1,0 +1,3 @@
+- 👋 Olá, meu nome é Josenildo dos Santos
+- 👀 Sou professor da E.E Vereador Antônio Valdemar Galo
+- 🌱 Leciono a disciplina Tecnologia e Informação
